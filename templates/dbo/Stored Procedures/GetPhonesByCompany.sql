@@ -5,3 +5,4 @@ AS
 	WHERE CompanyId = (SELECT Id FROM dbo.Companies WHERE [Name] = @name)
 	print 'test'
 	print 'newMessage'
+	print '2 commits'
