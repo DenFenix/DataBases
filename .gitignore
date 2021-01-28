@@ -30,3 +30,7 @@ _ReSharper*/
 .vs/
 #Nuget packages folder
 packages/
+/BookStore/BookStore.dbmdl
+/BookStore/BookStore.jfm
+/templates/templates.dbmdl
+/templates/templates.jfm
